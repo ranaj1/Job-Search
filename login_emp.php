@@ -49,7 +49,7 @@
 
 						<!-- Logo -->
 							<a href="ind.php" class="logo">
-                            </span> <span class="title"><strong style="color:black; font-size:20px">Rise and Shine<em style="color:orange">.</em></strong><.php								</a>
+                            </span> <span class="title"><strong style="color:black; font-size:20px">Rise and Shine<em style="color:orange">.</em></strong>							</a>
 
 						<!-- Nav -->
 							<nav>

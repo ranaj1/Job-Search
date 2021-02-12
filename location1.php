@@ -5,7 +5,7 @@
 	<head>
 	<style>
     .chart-container {
-        margin-left: 250px;
+        margin-left: 50px;
     width: 700px;
     height:400px
     }
